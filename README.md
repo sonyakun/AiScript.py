@@ -1,2 +1,3 @@
 # AiScript.py
-(WIP) AiScriptのPython実装
+AiScriptのPython実装。
+
